@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("CuiShihuang has build a new file.");
+  return 0;
+}
